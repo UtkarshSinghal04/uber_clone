@@ -1,0 +1,15 @@
+Backend steps: 
+
+1) make app.js -> make app, and app.listen on port
+2) make env file -> put port in it 
+3) make db file -> connect your database with key in .env
+4) make model file -> it will contain schema of your entities 
+5) make router -> it will contain all the routes 
+6) make controller -> it will contain logic of specific routes
+7) set up an middleware for authenticated user basically for a particular profile
+8) for a profile, clearly make for things -> register, login, profile(authenticated middleware), logout(blacklisttoken)
+9) check everything on postman
+
+FrontEnd Steps: 
+
+1) 
