@@ -60,7 +60,5 @@ This project is a clone of the Uber application, built as a part of a web develo
 
     ---
     
-    
-
-    Thank you for checking out this project! I hope you find it helpful and inspiring. Happy coding!
+    Thank you for checking out this project! I hope you find it helpful and inspiring.
     If you encounter any issues or have suggestions to improve this project, feel free to reach out. Enjoy exploring and building with this Uber Clone! Happy coding!
